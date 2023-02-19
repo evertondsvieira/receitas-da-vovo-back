@@ -1,7 +1,7 @@
 <?php
 
 require 'config/database.php';
-require 'router.php'
+require 'router.php';
 
 $path = $_SERVER['PATH_INFO'];
 
